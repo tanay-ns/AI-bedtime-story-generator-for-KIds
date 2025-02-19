@@ -8,7 +8,7 @@ If I had spent two more hours on this project, I would have focused on improving
 like a role-playing game with choices. I would also have tried to incorporate lessons at each step or at the end.
 """
 # OpenAI API Key (Set before running)
-openai.api_key = "sk-svcacct-gpWN7oETfEuVbbfqBTvJre39uafxvIYblAorfFkUsmDhGoe-aO3Znwq258tJUtt8zX2oMRucaCsT3BlbkFJDgL0DWdKuOXXFu4LXis9ijmycOZgP97rpfwfQzdesl1l5mDNTps-k13hnrS4oCarYPKqvACStAA"
+openai.api_key = "key"
 
 # Load a comprehensive banned words dictionary
 profanity.load_censor_words()
